@@ -1,0 +1,19 @@
+{
+  "servers": {
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com",
+      "headers": {
+        "Authorization": "Bearer ${input:apify_token}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "id": "apify_token",
+      "type": "promptString",
+      "description": "Apify API token (ask at the mentor desk, optional)",
+      "password": true
+    }
+  ]
+}
