@@ -21,3 +21,13 @@ Built the headline roaster? Here are ten more, tagged by difficulty. Each one is
 9. **Arabic-English localizer** (medium). Translates campaign copy both directions while keeping brand voice, not dictionary voice. Hint: feed it your tone words and two example posts as the voice reference.
 
 10. **Lead qualifier** (medium). Scores inbound messages as hot, warm, or cold with a reason. Hint: paste the messages into a file in `data/`, define the scoring rules in the agent body.
+
+## Go deeper (after the hackathon)
+
+Two research directions once agents feel easy:
+
+- **Loop engineering**: agents that check their own work and go again until it passes.
+  Search: reflection loops, evaluator-optimizer pattern, Anthropic "Building Effective Agents".
+- **Agent graphs**: whole teams of agents wired as a looping graph, where nodes are agents
+  and edges route the work between them. This is the current production frontier.
+  Search: LangGraph, graph-based agent orchestration, cyclic agent graphs.
