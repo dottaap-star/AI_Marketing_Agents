@@ -25,9 +25,9 @@ Keys are handed out at the door, one per person.
 1. Open Chat in VS Code (the chat icon in the top bar).
 2. In the Chat panel, click the gear icon and choose **Manage Language Models**. Or open the Command Palette and run **Chat: Manage Language Models**.
 3. Click **Add Models**, choose **Gemini**, and paste your key.
-4. Pick **gemini-flash-latest** as your model.
+4. Pick **gemini-3.7-flash (or gemini-3.1-pro-preview for advanced reasoning)** as your model.
 
-> **Warning:** gemini-2.5-flash and gemini-2.5-pro are retired and return a 404 error. Ignore older tutorials that mention them. Use **gemini-flash-latest**.
+> **Warning:** gemini-2.5-flash and gemini-2.5-pro are retired and return a 404 error. Ignore older tutorials that mention them. Use **gemini-3.7-flash**.
 
 The image, video, and audio tools read the same key from a file:
 
@@ -81,7 +81,7 @@ Type `/` in the chat box to see these. They are quick one-shot helpers:
 
 | Problem | Fix |
 |---|---|
-| Model returns 404 | Use **gemini-flash-latest**. gemini-2.5-flash and gemini-2.5-pro are retired. |
+| Model returns 404 | Use **gemini-3.7-flash**. gemini-2.5-flash and gemini-2.5-pro are retired. |
 | Agent picker is empty | Update VS Code to 1.122 or newer, then close and reopen the folder. |
 | GEMINI_API_KEY missing | Copy `.env.example` to `.env` and paste your key inside it. |
 | 429 errors | Wait a minute, the room shares capacity. The mentor desk has backup keys. |
