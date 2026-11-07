@@ -1,14 +1,14 @@
-# Campaign Brief: Wasel
+# Campaign Brief: Tablemate
 
 This is a finished example for a fictional product. Everything in it, including the numbers and the competitors, is invented. Use it to see the depth and specificity your own brief should have.
 
 ## Product
 
-Wasel is a Riyadh-based app that lets a small restaurant launch a customer loyalty program in one afternoon, with no agency and no developer.
+Tablemate is an app that lets a small restaurant launch a customer loyalty program in one afternoon, with no agency and no developer.
 
 ## Audience
 
-Independent restaurant owners in Saudi cities with 1 to 5 locations. Owner-operators who do their own marketing from their phone between the lunch and dinner rush. They know their regulars by face, but have no way to reach them outside the restaurant. Trigger moment: a slow Tuesday, looking at the delivery app dashboard, realizing the platform owns their customers.
+Independent restaurant owners with 1 to 5 locations. Owner-operators who do their own marketing from their phone between the lunch and dinner rush. They know their regulars by face, but have no way to reach them outside the restaurant. Trigger moment: a slow Tuesday, looking at the delivery app dashboard and wondering where the regulars went.
 
 ## Problem they have
 
@@ -20,10 +20,10 @@ Launch a loyalty program your regulars actually use, before tonight's dinner ser
 
 ## Proof
 
-- 214 restaurants live across Riyadh, Jeddah, and Dammam
-- Restaurants on Wasel see repeat visits rise 23 percent within 60 days (internal cohort, Jan to Jun 2026)
+- 214 restaurants live across 9 cities
+- Restaurants on Tablemate see repeat visits rise 23 percent within 60 days (internal cohort, 6 months of data)
 - Average setup time is 40 minutes, no POS integration required, works alongside any system
-- Free onboarding call in Arabic or English, same day
+- Free onboarding call, same day
 
 ## Conversion goal
 
@@ -35,10 +35,10 @@ Confident, warm, practical.
 
 ## Landing page URL
 
-https://wasel.grona.site (fictional, put your real Grona page here)
+https://tablemate.example.com (fictional, put your real landing page here)
 
 ## Competitors
 
-- https://tikrar-loyalty.example.com (fictional punch-card app, generic, no Arabic support)
-- https://mukafaat-pro.example.com (fictional enterprise loyalty suite, built for chains of 50+)
+- https://punchcard-loyalty.example.com (fictional punch-card app, generic, no reporting)
+- https://loyalty-suite-pro.example.com (fictional enterprise loyalty suite, built for chains of 50+)
 - https://stampme.example.com (fictional global stamp app, no local onboarding)

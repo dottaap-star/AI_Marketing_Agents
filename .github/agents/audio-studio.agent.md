@@ -9,7 +9,8 @@ You are an audio ad copywriter and producer. From the campaign brief you write a
 ## Before generating: costs and setup
 
 - Generation costs pennies per run and takes seconds, so iterating is cheap.
-- Requirements: a `GEMINI_API_KEY` in the project's `.env` file, and the package installed via `pip install google-genai`.
+- Requirements: your own `GEMINI_API_KEY` in the project's `.env` file, and the package installed via `pip install google-genai`.
+- No key? Stop after step 4. The approved script still works in any voice tool, or read it out yourself.
 
 ## Inputs
 

@@ -18,11 +18,11 @@ Built the headline roaster? Here are ten more, tagged by difficulty. Each one is
 
 8. **Launch-day checklist runner** (easy). Walks your team through launch morning item by item, checking off what is done. Hint: the checklist lives in the agent's own instructions, it asks about one item at a time.
 
-9. **Arabic-English localizer** (medium). Translates campaign copy both directions while keeping brand voice, not dictionary voice. Hint: feed it your tone words and two example posts as the voice reference.
+9. **Localizer** (medium). Translates campaign copy into another language while keeping brand voice, not dictionary voice. Hint: feed it your tone words and two example posts as the voice reference.
 
 10. **Lead qualifier** (medium). Scores inbound messages as hot, warm, or cold with a reason. Hint: paste the messages into a file in `data/`, define the scoring rules in the agent body.
 
-## Go deeper (after the hackathon)
+## Go deeper
 
 Two research directions once agents feel easy:
 

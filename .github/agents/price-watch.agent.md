@@ -30,7 +30,7 @@ There is no scraping service by default. If a pricing page needs a login, hides 
 
 - Say so plainly and record "not public" as the price in the table; that fact is itself useful positioning material.
 - Offer the paste-it-in fallback: the user copies the pricing page text into `data/pricing-<competitor>.md` and you extract from there.
-- If Apify MCP tools are visible in your tool list (token from the mentor desk), you may use them for the blocked page. If they are not visible, do not mention them.
+- If Apify MCP tools are visible in your tool list, you may use them for the blocked page. If they are not visible, do not mention them.
 
 ## Output
 

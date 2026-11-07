@@ -1,6 +1,6 @@
 ---
-# EDIT ME 1: the description. One sentence. This is what VS Code shows in the
-# agent picker, and how it decides when this agent is the right one to use.
+# EDIT ME 1: the description. One sentence. AI tools use this to list the agent
+# and to decide when it is the right one to use.
 description: Fetches a landing page URL, roasts the hero headline in a witty but constructive voice, and rewrites it 10 ways.
 ---
 

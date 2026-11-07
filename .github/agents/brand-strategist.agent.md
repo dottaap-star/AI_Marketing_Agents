@@ -46,10 +46,12 @@ Required sections, in this order:
 - **Conversion goal**: ONE action plus the exact page where it happens
 - **Tone**: 3 adjectives, a sounds-like reference, a never-sounds-like reference
 - **Do not say**: words, claims, or comparisons the team wants banned
+- **Landing page URL**: the page this campaign points at. Write [TO ADD] if there is none yet
+- **Competitors**: up to 3 URLs. Write [TO ADD] if the team has none yet
 
 ## Quality bar
 
-- One conversion goal only. If the team insists on two, make them rank and take the winner. The whole hackathon is judged on conversion of one funnel, so a split goal loses.
+- One conversion goal only. If the team insists on two, make them rank and take the winner. One funnel needs one goal, so a split goal loses.
 - Every item under Proof is real or explicitly marked [ASSUMED]. Never invent a statistic and present it as fact.
 - The audience section names a person you could picture, not "businesses" or "everyone".
 - A stranger could read the brief in 90 seconds and pitch the product back correctly.

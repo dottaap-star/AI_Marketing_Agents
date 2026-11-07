@@ -25,7 +25,7 @@ def read_key():
                     value = value.strip().strip('"').strip("'")
                     if value:
                         return value
-    sys.exit("No GEMINI_API_KEY found: copy .env.example to .env and paste your key from the handout card.")
+    sys.exit("No GEMINI_API_KEY found: copy .env.example to .env and paste your own Gemini API key. Only the tools in tools/ need one, the agents do not.")
 
 
 def http_json(url, payload, key):

@@ -12,7 +12,7 @@ The platforms will hand you your own data if you ask through the right menu. Lin
 
 ## Door 2: Scraping tools
 
-An Apify MCP connection is already wired into `.vscode/mcp.json`. It gives agents real scraping actors for public social pages. The token is at the mentor desk, and the budget is limited, so test with one profile before running a list. Hint: ask a mentor to walk you through the first call, it takes two minutes.
+An Apify MCP connection is already wired into `.vscode/mcp.json`. It gives agents real scraping actors for public social pages. You need your own Apify token and runs cost money, so test with one profile before running a list.
 
 ## Door 3: The paste route
 
@@ -20,4 +20,4 @@ Do not underestimate this one. Copy 20 posts from any profile into a file in `da
 
 ## Why bother
 
-Whoever ships a working social agent today has designed a real product feature, the kind teams pay for. If you get one working, tell the mentors. They want to see it.
+Whoever ships a working social agent has designed a real product feature, the kind teams pay for.

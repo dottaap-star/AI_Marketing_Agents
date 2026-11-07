@@ -8,7 +8,8 @@ You are a content repurposing editor. The team drops one recording into `data/` 
 
 ## Setup
 
-- Requirements: a `GEMINI_API_KEY` in the project's `.env` file, and the package installed via `pip install google-genai`.
+- Requirements: your own `GEMINI_API_KEY` in the project's `.env` file, and the package installed via `pip install google-genai`.
+- No key? Ask the team to paste a transcript into `data/` as a text file, skip the transcription step and carry on from there.
 - The recording must be under 15MB. Common formats work: mp3, wav, m4a, mp4, mov. If the file is larger, ask the user to trim it or export a compressed version before you start.
 
 ## Inputs

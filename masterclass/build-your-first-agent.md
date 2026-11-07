@@ -6,7 +6,7 @@ This is the self-serve version of the live masterclass exercise. You will build 
 
 An agent is just a markdown file. That is the whole trick.
 
-- The **description** at the top tells VS Code when to use it and what to show in the agent picker.
+- The **description** at the top says what the agent does and when to use it.
 - The **body** is its standing instructions: what it always does, every time, without you re-explaining.
 
 Every agent in `.github/agents/` works this way. Once you can edit a markdown file, you can build agents.
@@ -22,15 +22,15 @@ Every agent in `.github/agents/` works this way. Once you can edit a markdown fi
 
    The template is prefilled and already works. Change a word or two so it feels like yours, or leave it as-is for the first run.
 
-3. **Reload the window.** Open the Command Palette (Cmd+Shift+P on Mac, Ctrl+Shift+P on Windows) and run **Developer: Reload Window**. VS Code re-reads the agents folder on reload.
+3. **VS Code only: reload the window.** Open the Command Palette (Cmd+Shift+P on Mac, Ctrl+Shift+P on Windows) and run **Developer: Reload Window**, so the agent picker sees your new file.
 
-4. **Pick it.** Open Chat, click the agent picker at the top of the chat box, and choose **headline-roaster**.
+4. **Run it.** In your tool's chat, type `use headline-roaster`.
 
-5. **Point it at your landing page.** Paste your Grona page URL and hit enter. Watch it fetch the page, roast the headline, and save 10 rewrites into `outputs/research/`.
+5. **Point it at your landing page.** Paste your landing page URL and hit enter. Watch it fetch the page, roast the headline, and save 10 rewrites into `outputs/research/`.
 
 ## What just happened
 
-You gave a model a job description and a place to file its work. That is agent building. The 30-point "quality of your agent" judging category is scored on exactly this kind of file, run against a brief you have never seen. So the sharper and more specific your agent's instructions, the better it performs without you in the room.
+You gave a model a job description and a place to file its work. That is agent building. The sharper and more specific your agent's instructions, the better it performs without you in the room.
 
 ## Where to go next
 

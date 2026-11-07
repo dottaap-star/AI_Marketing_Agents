@@ -12,7 +12,7 @@
     {
       "id": "apify_token",
       "type": "promptString",
-      "description": "Apify API token (ask at the mentor desk, optional)",
+      "description": "Apify API token (optional)",
       "password": true
     }
   ]

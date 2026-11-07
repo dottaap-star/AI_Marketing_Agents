@@ -30,7 +30,7 @@ Reddit sometimes rate-limits or blocks automated fetches. There is no scraping s
 
 - Say so plainly, wait and retry once with a different endpoint.
 - Offer the paste-it-in fallback: the user opens the thread in a browser and pastes the text into `data/reddit-<topic>.md`; you mine that file instead.
-- If Apify MCP tools are visible in your tool list (token from the mentor desk), you may use them to pull the threads. If they are not visible, do not mention them.
+- If Apify MCP tools are visible in your tool list, you may use them to pull the threads. If they are not visible, do not mention them.
 
 ## Output
 

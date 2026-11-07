@@ -1,6 +1,6 @@
 # Campaign Brief
 
-Fill in every section below. Short and specific beats long and vague. Not sure what good looks like? Open `brief/example-brief.md`. Want help? Pick **brand-strategist** in Chat and it will interview you and fill this in with you.
+Fill in every section below. Short and specific beats long and vague. Not sure what good looks like? Open `brief/example-brief.md`. Want help? Type `use brand-strategist` in your AI tool and it will interview you and fill this in with you.
 
 ## Product
 
@@ -32,7 +32,7 @@ Three words.
 
 ## Landing page URL
 
-Your Grona page.
+The page this campaign points at.
 
 ## Competitors
 
