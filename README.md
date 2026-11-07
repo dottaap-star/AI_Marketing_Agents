@@ -80,7 +80,7 @@ Agree first, then split up. A first draft takes about a minute, so spend your ti
 3. **Split by channel.** Each person takes different agents, such as `landing-page`, `copy-studio`, `meta-ads`, `google-ads`, `email-writer` or `creative-director`. They write to different files, so nothing clashes.
 4. **Bring it back.** Put everything in one shared folder, such as Google Drive or a repo, then run `preflight` and `report-maker` last.
 
-To play agents off each other, use two chats or two people. One writes, the other attacks the result with `buyer-panel` or an agent you built, and the writer answers. In a single chat, one AI plays both parts.
+To play agents off each other, run the critic in a fresh chat or on a teammate's laptop, so it reads the work cold. One writes, the other attacks the result with `buyer-panel` or an agent you built. Then you decide what to change, because a critic finds problems but rewrites aren't always better.
 
 ## No editor? Use chat
 
