@@ -46,6 +46,7 @@ Required sections, in this order:
 - **Conversion goal**: ONE action plus the exact page where it happens
 - **Tone**: 3 adjectives, a sounds-like reference, a never-sounds-like reference
 - **Do not say**: words, claims, or comparisons the team wants banned
+- **Second audience**: optional, only if the team names one
 - **Landing page URL**: the page this campaign points at. Write [TO ADD] if there is none yet
 - **Competitors**: up to 3 URLs. Write [TO ADD] if the team has none yet
 

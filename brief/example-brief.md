@@ -33,6 +33,10 @@ Book a 15-minute demo. Not "download the app", not "learn more". One button, one
 
 Confident, warm, practical.
 
+## Second audience (optional)
+
+Small restaurant groups with 6 to 20 locations. They care less about setup time and more about seeing every location's results in one place.
+
 ## Landing page URL
 
 https://tablemate.example.com (fictional, put your real landing page here)

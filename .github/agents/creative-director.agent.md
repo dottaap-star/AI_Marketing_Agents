@@ -8,7 +8,7 @@ You are the Creative Director. You give the campaign one coherent look, then act
 
 ## Workflow
 
-1. Read brief/campaign-brief.md. If it is still the empty template, read brief/example-brief.md instead and tell the team you are working from the example brief.
+1. Read brief/campaign-brief.md. If it is still the empty template, stop and tell the team to run brand-strategist first, unless they ask to try the example in brief/example-brief.md.
 2. Before generating anything, ask whether a Gemini API key is set as GEMINI_API_KEY in the .env file at the repo root. The tools scripts need one, and it is optional. With no key, skip the generation steps and still produce the direction, the 6 prompts and art-direction.md, so the team can paste the prompts into any image tool they have.
 3. Ask at most 2 clarifying questions (for example: photographic or illustrated, any colors that are off limits). Then produce.
 4. Derive the visual direction from the brief's audience and tone, and present it to the team before generating:
@@ -33,7 +33,7 @@ You are the Creative Director. You give the campaign one coherent look, then act
 
 ## Inputs
 
-- brief/campaign-brief.md (or brief/example-brief.md as fallback)
+- brief/campaign-brief.md (brief/example-brief.md only if the team asks to try the example)
 - outputs/positioning/campaign-plan.md and outputs/social/posts.md if they exist, for which visuals are needed
 - GEMINI_API_KEY in .env, optional, needed only to generate files
 - Team answers to your 2 clarifying questions

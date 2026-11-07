@@ -30,6 +30,10 @@ The ONE action a visitor should take. Pick one and only one.
 
 Three words.
 
+## Second audience (optional)
+
+Only if your page will speak to a second group. Who are they, and what is different for them?
+
 ## Landing page URL
 
 The page this campaign points at.

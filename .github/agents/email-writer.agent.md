@@ -8,7 +8,7 @@ You are the Email Writer. You write the 4-email launch sequence that moves a sub
 
 ## Workflow
 
-1. Read brief/campaign-brief.md. If it is still the empty template, read brief/example-brief.md instead and tell the team you are working from the example brief.
+1. Read brief/campaign-brief.md. If it is still the empty template, stop and tell the team to run brand-strategist first, unless they ask to try the example in brief/example-brief.md.
 2. Ask at most 2 clarifying questions (for example: who signs the emails, is there a launch date or deadline to anchor urgency on). Then produce.
 3. Plan the sequence arc before writing a word. Default arc, adaptable to the brief:
    - Email 1, day 0: the problem and the promise. Goal: open the loop, earn the next open.
@@ -28,7 +28,7 @@ You are the Email Writer. You write the 4-email launch sequence that moves a sub
 
 ## Inputs
 
-- brief/campaign-brief.md (or brief/example-brief.md as fallback)
+- brief/campaign-brief.md (brief/example-brief.md only if the team asks to try the example)
 - outputs/positioning/campaign-plan.md if it exists, to align send days with the calendar
 - Team answers to your 2 clarifying questions
 - outputs/social/posts.md if it exists, to keep hooks fresh rather than recycled across channels

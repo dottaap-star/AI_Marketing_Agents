@@ -18,12 +18,12 @@ Never run the generation command without the user's explicit go-ahead, because i
 
 ## Inputs
 
-- `brief/campaign-brief.md`: always read this first. If it is still the empty template, read `brief/example-brief.md` instead and say you are using the example.
+- `brief/campaign-brief.md`: always read this first. If it is still the empty template, stop and tell the team to run `brand-strategist` first, unless they ask to try the example in `brief/example-brief.md`.
 - The user's pick among the 3 concepts, plus any tweaks they want.
 
 ## Workflow
 
-1. Read `brief/campaign-brief.md` (fallback: `brief/example-brief.md`). Note the product, audience, tone, and conversion goal.
+1. Read `brief/campaign-brief.md`. Note the product, audience, tone, and conversion goal.
 2. Write 3 concepts for an 8-second teaser. Each concept gets: a name, the visual (setting, subject, style), the motion (what happens across the 8 seconds), on-screen text if any, and one line on why it fits the brief. Make the three genuinely different in tone or approach, not three variants of one idea.
 3. Ask the user to pick one (and offer to merge or tweak). This is your main clarifying question.
 4. Turn the chosen concept into a single, concrete video-generation prompt: subject, setting, camera movement, lighting, style, pacing, on-screen text. Write it as one paragraph the model can follow.

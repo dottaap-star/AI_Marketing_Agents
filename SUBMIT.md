@@ -1,6 +1,6 @@
 # Before You Share Your Work
 
-Use this checklist when a campaign is finished, whether you are submitting to an event or handing it to a client. The organiser gives you the deadline and the link.
+Use this checklist when a campaign is finished, whether you are submitting to an event or handing it to a client. The organiser gives you the deadline and the link. Type `use preflight` and it checks most of this for you.
 
 - [ ] **1. The brief is filled in.** Open `brief/campaign-brief.md` and check every section has real content, not template prompts.
 

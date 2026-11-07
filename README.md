@@ -1,6 +1,6 @@
 # Marketing Agents Starter
 
-A ready-made team of 16 AI marketing agents. Each one is a plain markdown file, so they work in VS Code, Cursor, Claude Code, Codex and any other AI tool that can read a folder. Bring the AI subscription you already have, open this folder and start.
+A ready-made team of 19 AI marketing agents. Each one is a plain markdown file, so they work in VS Code, Cursor, Claude Code, Codex and any other AI tool that can read a folder. Bring the AI subscription you already have, open this folder and start.
 
 Use it for a hackathon, a launch sprint or a normal Monday. At an event, the organiser's slides have the schedule, the rules and where to submit.
 
@@ -32,20 +32,23 @@ use brand-strategist
 
 It will interview you and write your campaign brief. Every other agent reads that brief before doing anything, so this is always the right place to start. In VS Code with Copilot you can also pick agents from the agent picker at the top of the chat box.
 
-## Your 16 agents
+## Your 19 agents
 
-Type `use` and the agent's name.
+Type `use` and the agent's name. New here? Start with these five, in this order: `brand-strategist`, `campaign-builder`, `landing-page`, `meta-ads`, `buyer-panel`.
 
 | Agent | What it does |
 |---|---|
 | brand-strategist | Interviews you, then writes the campaign brief every other agent reads. Start here. |
 | campaign-builder | Turns the brief into a campaign plan: big idea, channel mix, 7-day calendar, budget split and KPIs. |
+| landing-page | Writes a full landing page, plus a second version for another audience. Paste it into any site builder. |
 | copy-studio | Writes social copy: 5 LinkedIn posts, 5 Instagram captions, 3 X posts and 10 spare hooks. |
 | google-ads | Builds a search campaign: 2 ad groups, counted headlines and descriptions, negative keywords. |
 | meta-ads | Builds Meta ads: 3 angles by funnel stage, text and headlines, audiences and video hooks. |
 | email-writer | Writes a 4-email launch sequence with A/B subject lines. |
 | creative-director | Sets the visual direction and writes 6 image prompts. Generates the images if you add a key. |
+| buyer-panel | Three sceptical buyers read your page and say why they won't buy, then list the fixes. |
 | report-maker | Packages your team's work into one shareable HTML page. |
+| preflight | Checks for missing work, unproven claims and private keys before you share anything. |
 | competitor-teardown | Tears down up to 3 competitor sites and finds 3 gaps you can use. |
 | seo-auditor | Audits your site's SEO and mobile speed, with a prioritised fix list. |
 | analytics-analyst | Reads any export you drop into `data/`, explains it and recommends 3 actions. |
@@ -74,10 +77,10 @@ Agree first, then split up. A first draft takes about a minute, so spend your ti
 
 1. **Agree together.** Run `brand-strategist`, then `campaign-builder`. Read the results as a team. `brief/campaign-brief.md` and `outputs/positioning/campaign-plan.md` are now your shared plan.
 2. **Share those two files.** Each person copies them into their own copy of this folder, or pastes them into their chat.
-3. **Split by channel.** Each person takes different agents, such as `copy-studio`, `meta-ads`, `google-ads`, `email-writer` or `creative-director`. They write to different files, so nothing clashes.
-4. **Bring it back.** Put everything in one shared folder, such as Google Drive or a repo, then run `report-maker` last.
+3. **Split by channel.** Each person takes different agents, such as `landing-page`, `copy-studio`, `meta-ads`, `google-ads`, `email-writer` or `creative-director`. They write to different files, so nothing clashes.
+4. **Bring it back.** Put everything in one shared folder, such as Google Drive or a repo, then run `preflight` and `report-maker` last.
 
-To play agents off each other, use two chats or two people. One writes, the other attacks the result, and the writer answers. In a single chat, one AI plays both parts.
+To play agents off each other, use two chats or two people. One writes, the other attacks the result with `buyer-panel` or an agent you built, and the writer answers. In a single chat, one AI plays both parts.
 
 ## No editor? Use chat
 
