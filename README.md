@@ -1,8 +1,19 @@
+<p>
+  <a href="https://grona.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/grona-logo-white.svg">
+      <img src="assets/grona-logo.svg" alt="Grona" height="44">
+    </picture>
+  </a>
+</p>
+
 # Marketing Agents Starter
 
 A ready-made team of 19 AI marketing agents. Each one is a plain markdown file, so they work in VS Code, Cursor, Claude Code, Codex and any other AI tool that can read a folder. Bring the AI subscription you already have, open this folder and start.
 
 Use it for a hackathon, a launch sprint or a normal Monday. At an event, the organiser's slides have the schedule, the rules and where to submit.
+
+**New here?** Follow the three steps below, then read [GUIDE.md](GUIDE.md) to learn how to use the agents in Claude, Claude Code and any IDE, improve them, and play them off each other.
 
 ## Three steps to running
 
@@ -69,7 +80,7 @@ Quick one-shot jobs. Type `use hooks`, for example.
 | `persona` | Builds a detailed buyer persona from your brief. |
 | `utm` | Builds correctly tagged campaign links so your analytics stay clean. |
 
-Want to build your own agent? Start with `masterclass/build-your-first-agent.md`.
+Want to build your own agent? Start with `masterclass/build-your-first-agent.md`. To improve and combine agents, read [GUIDE.md](GUIDE.md).
 
 ## Working as a team
 
@@ -112,6 +123,16 @@ Video generation costs about $1 a clip on your key, so the agent asks first.
 | You hit your plan's limit | Wait for it to reset, or carry on from a teammate's account. |
 | GEMINI_API_KEY missing | Only the `tools/` scripts need it. See [Images, video and voice](#images-video-and-voice-optional). |
 | python not found | Install Python 3. On a Mac, type `python3` instead of `python`. |
+
+## Contributors
+
+- [Grona](https://grona.ai) ([GronaAI on GitHub](https://github.com/GronaAI))
+
+Ideas and improvements are welcome through issues and pull requests.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
 
 ---
 
